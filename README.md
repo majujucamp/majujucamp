@@ -1,7 +1,7 @@
 Hello word and Devs!! 👋
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Meu nome é Maria Julia tenho 23 anos. Sou estudante de Analise e Desolvolvimento de Sistemas (Fatec), caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, porém, eu amo tudo isso! ❤
+Meu nome é Maria Julia tenho 23 anos. Sou estudante de Analise e Desolvolvimento de Sistemas (Fatec), caçadora oficial de bugs, e quanto mais eu aprendo mais eu passo raiva, porém, eu amo tudo isso! ❤
 
 
 Conhecimento nas seguintes Ferramentas:
